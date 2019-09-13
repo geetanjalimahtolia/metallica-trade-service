@@ -1,0 +1,1 @@
+insert into trade values(2, 200,sysdate(),'BUY','OPEN', 'AL', 'Lorem','BA',1875.5);
